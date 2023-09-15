@@ -13,7 +13,7 @@ class Anjing extends Hewan {
 
   @override
   void info(){
-    print("Ini contoh overide");
+    print("Ini class anjing");
   }
 
 }

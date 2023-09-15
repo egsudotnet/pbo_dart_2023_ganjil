@@ -2,6 +2,7 @@
 class Hewan {
   String jenis;
   int umur;
+  String? nama = "Default Nama";
 
   Hewan(this.jenis, this.umur);
 
