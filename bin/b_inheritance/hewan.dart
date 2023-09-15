@@ -6,7 +6,7 @@ class Hewan {
   Hewan(this.jenis, this.umur);
 
   void bersuara() {
-    print('Hewan ini bersuara.');
+    print('Hewan ini bisa bersuara.');
   }
 
   void info() {

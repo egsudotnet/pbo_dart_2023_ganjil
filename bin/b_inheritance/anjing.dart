@@ -8,6 +8,12 @@ class Anjing extends Hewan {
   // Override metode bersuara
   @override
   void bersuara() {
-    print('Anjing mengeluarkan suara: Woof!');
+    print('Anjing mengeluarkan suara: Gong-gong!');
   }
+
+  @override
+  void info(){
+    print("Ini contoh overide");
+  }
+
 }
